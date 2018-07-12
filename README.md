@@ -2,7 +2,9 @@ React-Application:
 
 Deployed on AWS S3 @ [NBA-APP](http://nba-app.s3-website-us-east-1.amazonaws.com/)   Live Demo.  If data isn't loading please refresh the page.
 
-An application to display information about NBA teams, players info, stats etc.,. Developed using React v15.6 http://nba-app.s3-website-us-east-1.a… 
+An application to display information about NBA teams, players info, stats etc.,. Developed using React v15.6 
+
+http://nba-app.s3-website-us-east-1.a…
 
 ## How to Run
 
