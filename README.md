@@ -1,6 +1,8 @@
 React-Application:
 
-Deployed on AWS S3 @ [NBA-APP](http://nba-app.s3-website-us-east-1.amazonaws.com/)   Live Demo.  If data isn't loading please refresh the page. 
+Deployed on AWS S3 @ [NBA-APP](http://nba-app.s3-website-us-east-1.amazonaws.com/)   Live Demo.  If data isn't loading please refresh the page.
+
+An application to display information about NBA teams, players info, stats etc.,. Developed using React v15.6 http://nba-app.s3-website-us-east-1.a… 
 
 ## How to Run
 
@@ -14,33 +16,6 @@ This web application is a demostration of React application which uses React-Tra
 As of now, this application will allow user to view information about variuos NBA teams, latest news, allows him to subscribe to emails and vote for his favourite team.
 
 
-# Screenshots
 
-## Home Page
-![alt text](screenshots/home1.png "Home Page -  This is opening/welcome page to the application")
-
-Home Page -  This is opening/welcome page to the application
-
-
-## Transitions 
-![alt text](screenshots/home2.png "Simple Transitions to display latest news. Also allows user to subscribe to emails")
-
-Subscription - Allows a user to subscribe for emails and view latest news.
-
-
-## Voting
-![alt text](screenshots/home3.png "Allows user to cast vote for his favourite team in Top 3")
-
-Voting - Allows a user to cast vote for his favourite team in Top 3
-
-
-## Teams Page 
-![alt text](screenshots/teams.png "Displays all the NBA teams")
-
-Teams Page - Displays all the NBA Teams
-
-
-## Team Page
-![alt text](screenshots/team.png "Gives player information of a particular team")
 
 Team Page - Gives player information of a particular team
